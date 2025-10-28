@@ -14,10 +14,6 @@ export default {
         </div>
         <div class="p-1">
             <strong>Email:</strong>
-            {{ contact.address }}
-        </div>
-        <div class="p-1">
-            <strong>E-mail:</strong>
             {{ contact.email }}
         </div>
         <div class="p-1">
